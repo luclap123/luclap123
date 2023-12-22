@@ -1,7 +1,7 @@
 # 💫About Me :
 👨‍🎓  I'm studying at Hanoi University of Business and Technology
 🎲  I’m currently learning more about Game Development
-📫 How to reach me? Email: Boylap7@gmail.com
+📫 How to reach me? Email: luclap.workit@gmail.com
 🤩 I want to find friends on the same path
 🏓 My Hobby is reading the book, writing and coding 
 
